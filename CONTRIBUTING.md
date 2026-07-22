@@ -91,7 +91,7 @@ A commit message must start with the corresponding ticket number in GitHub (#TIC
 
 ### Naming Conventions
 
-In general the HL7 [FHIR naming conventions](http://wiki.hl7.org/index.php?title=FHIR_Guide_to_Designing_Resources#Naming_Rules_.26_Guidelines) apply. Essentially these conventions ask for **consistency** and **precision** (i.e. minimizing ambiguity, while ensuring the meaning is easily understood) when naming fields, resources or operations.
+In general the HL7 [FHIR naming conventions](https://confluence.hl7.org/spaces/FHIR/pages/35718826/Guide+to+Designing+Resources) apply. Essentially these conventions ask for **consistency** and **precision** (i.e. minimizing ambiguity, while ensuring the meaning is easily understood) when naming fields, resources or operations.
 
 Most of these guidelines are suggestions, except the following rules that *must* be followed:
 -  be U.S. English (spelled correctly!)
